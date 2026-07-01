@@ -57,11 +57,22 @@ Key focus areas:
 
 ## 🎥 Demo
 
+##
 <img width="720" height="1600" alt="WhatsApp Image 2026-07-01 at 1 07 32 PM" src="https://github.com/user-attachments/assets/67527053-c5c2-4fb8-a2db-4b3ef789935b" />
-
+##
 <img width="720" height="1600" alt="WhatsApp Image 2026-07-01 at 1 07 33 PM (1)" src="https://github.com/user-attachments/assets/1e6aedbb-5f11-4613-895e-5e795f145f27" />
-
+##
 <img width="720" height="1600" alt="WhatsApp Image 2026-07-01 at 1 07 33 PM" src="https://github.com/user-attachments/assets/8792c961-2af6-47e2-af59-64baca3c8839" />
+
+## video
+
+https://github.com/user-attachments/assets/d1a7f6f3-48dd-47c5-8526-64a2ba8e1b0d
+
+
+
+
+
+
 
 
 
